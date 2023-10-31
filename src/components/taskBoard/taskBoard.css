@@ -1,0 +1,7 @@
+.taskBoard{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    height: 90%;
+    overflow: hidden;
+}

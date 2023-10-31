@@ -1,0 +1,69 @@
+.modal{
+    width: 480px;
+    height: 675px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: var(--White, #FFF); 
+    padding: 32px;
+}
+
+.modalTitle{
+    color: var(--Black, #000112);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Plus Jakarta Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+
+.inputLabel{
+    color: var(--Medium-Grey, #828FA3);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Plus Jakarta Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.titleInputControl{
+
+}
+
+.descriptionInput{
+
+}
+
+.descriptionInputTextarea{
+
+}
+
+.subtasks{
+
+}
+
+.subtasksGroup{
+
+}
+
+.subtasksGroupButton{
+
+}
+
+.addNewSubtask{
+
+}
+
+.status{
+
+}
+
+.statusControl{
+
+}
+
+.createTaskButton{
+
+}

@@ -1,0 +1,33 @@
+.taskColumn{
+    display: flex;
+    flex-direction: column;
+}
+
+.taskColumnContent{
+    display: flex;
+    flex-direction: column;
+}
+
+.taskEmptyColumn{
+    border-radius: 6px;
+    background: linear-gradient(180deg, #E9EFFA 0%, rgba(233, 239, 250, 0.50) 100%);
+    height: 90%;
+    width: 280px;
+    display: flex;
+    align-items: center;
+    margin-top: 64px;
+}
+
+.newColumnButton{
+    color: var(--Medium-Grey, #828FA3);
+    background: linear-gradient(180deg, #E9EFFA 0%, rgba(233, 239, 250, 0.50) 100%);
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Plus Jakarta Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: none;
+    width: 100%;
+}

@@ -1,0 +1,223 @@
+{
+    "boards": [
+        {
+            "id": "1",
+            "name": "Platform Launch"
+        },
+        {
+            "id": "2",
+            "name": "Marketing Plan"
+        },
+        {
+            "id": "3",
+            "name": "Roadmap"
+        }
+    ],
+    "tasks":[
+        {
+            "id": "Platform Launch",
+            "task": [
+                {
+                    "id": "1",
+                    "title": "Build UI for onboarding flow",
+                    "status": "TODO"
+                },  
+                {
+                    "id": "2",
+                    "title": "Build UI for search",
+                    "status": "TODO"
+                },
+                {
+                    "id": "3",
+                    "title": "Build settings UI",
+                    "status": "TODO"
+                },
+                {
+                    "id": "4",
+                    "title": "QA and test all major user journeys",
+                    "status": "TODO"
+                },
+                {
+                    "id": "5",
+                    "title": "Design settings and search pages",
+                    "status": "DOING"
+                },
+                {
+                    "id": "6",
+                    "title": "Add account management endpoints",
+                    "status": "DOING"
+                },
+                {
+                    "id": "7",
+                    "title": "Design onboarding flow",
+                    "status": "DOING"
+                },
+                {
+                    "id": "8",
+                    "title": "Add search enpoints",
+                    "status": "DOING"
+                },
+                {
+                    "id": "9",
+                    "title": "Add authentication endpoints",
+                    "status": "DOING"
+                },
+                {
+                    "id": "10",
+                    "title": "Research pricing points of various competitors and trial different business models",
+                    "status": "DOING"
+                },
+                {
+                    "id": "11",
+                    "title": "Conduct 5 wireframe tests",
+                    "status": "DONE"
+                },
+                {
+                    "id": "12",
+                    "title": "Create wireframe prototype",
+                    "status": "DONE"
+                },
+                {
+                    "id": "13",
+                    "title": "Review results of usability tests and iterate",
+                    "status": "DONE"
+                },
+                {
+                    "id": "14",
+                    "title": "Create paper prototypes and conduct 10 usability tests with potential customers",
+                    "status": "DONE"
+                },
+                {
+                    "id": "15",
+                    "title": "Market discovery",
+                    "status": "DONE"
+                },
+                {
+                    "id": "16",
+                    "title": "Competitor analysis",
+                    "status": "DONE"
+                },
+                {
+                    "id": "17",
+                    "title": "Research the market",
+                    "status": "DONE"
+                }
+            ]
+        },
+        {
+            "id": "Marketing Plan",
+            "task": [
+                {
+                    "id": "1",
+                    "title": "Build UI for onboarding flow",
+                    "status": "TODO"
+                },  
+                {
+                    "id": "2",
+                    "title": "Build UI for search",
+                    "status": "TODO"
+                },
+                {
+                    "id": "4",
+                    "title": "QA and test all major user journeys",
+                    "status": "TODO"
+                },
+                {
+                    "id": "5",
+                    "title": "Design settings and search pages",
+                    "status": "DOING"
+                },
+                {
+                    "id": "6",
+                    "title": "Add account management endpoints",
+                    "status": "DOING"
+                },
+                {
+                    "id": "7",
+                    "title": "Design onboarding flow",
+                    "status": "DOING"
+                },
+                {
+                    "id": "10",
+                    "title": "Research pricing points of various competitors and trial different business models",
+                    "status": "DOING"
+                },
+                {
+                    "id": "11",
+                    "title": "Conduct 5 wireframe tests",
+                    "status": "DONE"
+                },
+                {
+                    "id": "12",
+                    "title": "Create wireframe prototype",
+                    "status": "DONE"
+                },
+                {
+                    "id": "13",
+                    "title": "Review results of usability tests and iterate",
+                    "status": "DONE"
+                },
+                {
+                    "id": "15",
+                    "title": "Market discovery",
+                    "status": "DONE"
+                },
+                {
+                    "id": "16",
+                    "title": "Competitor analysis",
+                    "status": "DONE"
+                },
+                {
+                    "id": "17",
+                    "title": "Research the market",
+                    "status": "DONE"
+                }
+            ]
+        },
+        {
+            "id": "Roadmap",
+            "task": [
+                {
+                    "id": "1",
+                    "title": "Build UI for onboarding flow",
+                    "status": "TODO"
+                },  
+                {
+                    "id": "2",
+                    "title": "Build UI for search",
+                    "status": "TODO"
+                },
+                {
+                    "id": "3",
+                    "title": "Build settings UI",
+                    "status": "TODO"
+                },
+                {
+                    "id": "4",
+                    "title": "QA and test all major user journeys",
+                    "status": "TODO"
+                },
+                {
+                    "id": "5",
+                    "title": "Design settings and search pages",
+                    "status": "DOING"
+                },
+                {
+                    "id": "6",
+                    "title": "Add account management endpoints",
+                    "status": "DOING"
+                },
+                {
+                    "id": "9",
+                    "title": "Add authentication endpoints",
+                    "status": "DOING"
+                },
+                {
+                    "id": "10",
+                    "title": "Research pricing points of various competitors and trial different business models",
+                    "status": "DOING"
+                }
+            ]
+        }
+    ]
+}

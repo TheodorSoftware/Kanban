@@ -1,0 +1,18 @@
+.taskStatus{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.taskStatusName{
+    color: var(--Medium-Grey, #828FA3);
+    font-feature-settings: 'clig' off, 'liga' off;
+    /* Heading (S) */
+    font-family: Plus Jakarta Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    margin-left: 5px;
+}
