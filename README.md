@@ -1,2 +1,0 @@
-# Kanban
-Jira-like app
