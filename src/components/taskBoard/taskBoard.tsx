@@ -39,7 +39,6 @@ const TaskBoard = (props:any) => {
 
     return (
         <React.Fragment>
-            <AddNewTaskModal> </AddNewTaskModal>
             <div className='taskBoard'>
                 {
                     statusArray.map((status: string,index: number) => {

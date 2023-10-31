@@ -17,10 +17,7 @@ module.exports = {
   output: {
     filename: "bundle.[hash].js",
     path: path.resolve(__dirname, "dist"),
-<<<<<<< HEAD
     publicPath: "/", // added this
-=======
->>>>>>> f63ad55ec7f5289d99ae633dbf95157c9a7336d6
   },
   plugins: [
     new HtmlWebpackPlugin({
