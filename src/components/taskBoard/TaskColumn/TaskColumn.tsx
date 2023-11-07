@@ -3,12 +3,15 @@ import './TaskColumn.css';
 import TaskStatus from './TaskStatus/TaskStatus';
 import Task from '../../../interfaces/task.interface';
 import TaskElement from './Task/TaskElement';
+import { useDispatch } from 'react-redux';
+import { actionModalSlice } from '../../../store/modalSlice';
 
 const TaskColumn = (props:any) => {
 
+    const dispatch = useDispatch();
     function handlerNewColumn(){
-        console.log('open new Column Modal!');
-    }
+        dispatch(actionModalSlice.openAddColumnModal());
+    };
 
     return(
         <React.Fragment>

@@ -1,10 +1,16 @@
-import React from 'react';
+import React, { Dispatch } from 'react';
 import './TaskElement.css';
+import { AnyAction } from 'redux';
+import { useDispatch } from 'react-redux';
+import { actionModalSlice } from '../../../../store/modalSlice';
 
 const TaskElement = (props: any) => {
 
+    const dispatch: Dispatch<AnyAction> = useDispatch();
+
+
     function openTaskModal(){
-        //TODO
+        dispatch(actionModalSlice.openAddNewTaskModal());
     }
 
     return(
